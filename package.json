@@ -1,0 +1,12 @@
+{
+  "name": "8-raw-node-project",
+  "version": "1.0.0",
+  "description": "A RESTFul API to monitor up or down time of user defined links",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sharul Islam",
+  "license": "ISC"
+}
